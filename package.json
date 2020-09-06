@@ -1,0 +1,22 @@
+{
+  "name": "@kegovc/schema2mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/schema2mongoose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kegovc/schema2mongoose.git"
+  },
+  "author": "KEGOVC <octaviovcruz@hotmail.com> (http://kegovc.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kegovc/schema2mongoose/issues"
+  },
+  "homepage": "https://github.com/Kegovc/schema2mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.10.2"
+  }
+}
