@@ -9,7 +9,7 @@ First install [Node.js](http://nodejs.org/), [MongoDB](https://www.mongodb.org/d
 ```sh
 npm install schema2mongoose
 ```
-#####or
+###or
 
 ```sh
 yarn add schema2mongoose
